@@ -1,3 +1,13 @@
+#myspecific ignore
+.DS_Store
+._.DS_Store
+core.18724
+untitled*
+data/
+Untitled*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +137,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my specific ignore
+data/
+Untitle
+.DS_Store
+._.DS_Store
+core*
+untitled*
